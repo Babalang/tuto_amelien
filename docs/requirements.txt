@@ -1,0 +1,6 @@
+recommonmark
+sphinx
+sphinx-automodapi
+sphinx-copybutton
+sphinx_rtd_theme
+sphinxcontrib-napoleon
